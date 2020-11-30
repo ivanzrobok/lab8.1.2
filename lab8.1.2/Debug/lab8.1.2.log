@@ -1,0 +1,7 @@
+﻿  lab8.1.2.cpp
+C:\Users\LapStore\source\repos\lab8.1.2\lab8.1.2\lab8.1.2.cpp(18,11): error C2672: "std::find": не найдена соответствующая перегруженная функция
+C:\Users\LapStore\source\repos\lab8.1.2\lab8.1.2\lab8.1.2.cpp(18,29): error C2780: _InIt std::find(_InIt,const _InIt,const _Ty &): требует аргументов: 3, имеется: 2
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\xutility(5171): message : см. объявление "std::find"
+C:\Users\LapStore\source\repos\lab8.1.2\lab8.1.2\lab8.1.2.cpp(30,6): error C2672: "std::find": не найдена соответствующая перегруженная функция
+C:\Users\LapStore\source\repos\lab8.1.2\lab8.1.2\lab8.1.2.cpp(30,5): error C2780: _InIt std::find(_InIt,const _InIt,const _Ty &): требует аргументов: 3, имеется: 2
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\xutility(5171): message : см. объявление "std::find"
